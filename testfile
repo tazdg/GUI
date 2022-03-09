@@ -1,2 +1,7 @@
 print("test")
+<<<<<<< HEAD
 testing John
+=======
+test
+potato chicken
+>>>>>>> e59803d492718236c3deefcb22d86bcef46191c0
